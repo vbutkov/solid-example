@@ -1,4 +1,4 @@
 package ru.vbutkov.srp02;
 
-public record Person(int id) {
+public record Person(PersonId id) {
 }

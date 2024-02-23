@@ -1,0 +1,7 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(—ÒÀúÿÿÿÿ8¦Ïè…İ1
+O
+java:S1172"-Remove this unused method parameter "animal".(œˆª…øÿÿÿÿ8¤ïÁÿÜ1
+L	java:S106"+Replace this use of System.out by a logger.(‡â™¥ıÿÿÿÿ8¦ïÁÿÜ1
+
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(—ÒÀúÿÿÿÿ8¯Ïè…İ1

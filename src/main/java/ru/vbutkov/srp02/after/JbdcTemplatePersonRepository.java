@@ -9,7 +9,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.Optional;
 
-public class JbdcTemplatePersonRepository implements PersonRepository, RowMapper<Person> {
+final public class JbdcTemplatePersonRepository implements PersonRepository, RowMapper<Person> {
 
     JdbcTemplate jdbcTemplate;
 
